@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.arcade/
+.playwright-mcp/
+qa/
+debug.log

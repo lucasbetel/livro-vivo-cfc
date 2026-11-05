@@ -1,0 +1,342 @@
+ANEXO II - DETALHAMENTO DO CONTEÚDO PROGRAMÁTICO
+As questões do Exame de Suficiência abordarão os conteúdos a seguir discriminados:
+1. CONTABILIDADE GERAL
+A) FUNDAMENTOS DA CONTABILIDADE, PATRIMÔNIO E VARIAÇÕES PATRIMONIAIS: conceito e finalidade
+da contabilidade. Objeto de estudo. Campo de atuação da Contabilidade. Definição de patrimônio: definição
+e composição. Classificação do Patrimônio: Ativo. Passivo. Patrimônio Líquido. Aumento de Capital. As
+Variações do Capital. Noções de Lucro e Prejuízo. Estatíca Patrimonial. Situação Líquida Patrimonial.
+B) PROCEDIMENTOS CONTÁBEIS, ESCRICURAÇÃO E PLANOS DE CONTAS: Tipos de Contas - Contas
+Sintéticas/Analíticas, Contas Patrimoniais/de Resultado, Contas Retificadoras. Escrituração Contábil e seus
+requisitos essenciais. Lançamento a Débito e a Crédito. Natureza dos saldos. Balancete de Verificação. Livro
+Diário e Razão. Plano de Contas.
+C) AVALIAÇÃO, MENSURAÇÃO E RECONHECIMENTO DE ATIVOS, PASSIVOS, PATRIMÔNIO LÍQUIDO,
+RECEITAS E DESPESAS : Normatização, conceitos, reconhecimento, mensuração inicial e mensuração
+subsequente. Custo histórico, custo corrente, valor realizável ou valor de liquidação e valor presente. Valor
+justo. Valor em uso e valor de cumprimento. Custo Amortizado. Valor recuperável de ativos. Atualização
+monetária. Método da equivalência patrimonial. Provisões, Ativos Contingentes e Passivos Contingentes.
+Variação Cambial. Depreciação, amortização e exaustão.
+D) AVALIAÇÃO E MENSURAÇÃO E RECONHECIMENTO DE TRANSAÇÕES E SEUS EFEITOS: Normatização,
+conceito, mensuração e reconhecimento de transações, tais como: operações financeiras; adiantamentos de
+clientes; operações com mercadorias, produtos e serviços; operações relacionadas estoques; despesas pagas
+antecipadamente; ativo não circulante mantido para venda e operação descontinuada; investimentos; ativo
+imobilizado; ativos biológicos; ativos intangíveis; combinação de negócio; custo atribuído; redução ao valor
+recuperável; vendas de ativos diversos (ganhos e perdas); transações com fornecedores, obrigações fiscais e
+outras obrigações; constituição de provisões; registro da folha de pagamento (inclusive férias, 13º. e
+Encargos); receitas, despesas, ganhos e perdas; apuração e destinação do resultado em conformidade com
+as normas contábeis brasileiras; contabilização de tributos; contabilização dos efeitos da aplicação da
+legislação tributária, trabalhista, civil e previdenciária; tributos correntes e diferidos; e demais operações e
+seus efeitos inerentes à atividade das sociedades empresárias.
+E) BALANÇO PATRIMONIAL: Apresentação, aspectos conceituais, finalidades e normatização, critérios
+de classificação e avaliação, Ativo Circulante, Ativo não Circulante, Passivo Circulante, Passivo não Circulante
+e Patrimônio Líquido.
+F) DEMONSTRAÇÃO DO RESULTADO E DEMONSTRAÇÃO DO RESULTADO ABRANGENTE:
+Apresentação, aspectos conceituais, finalidades e normatização, forma de elaboração e seus elementos.
+G) DEMONSTRAÇÃO DAS MUTAÇÕES DO PATRIMÔNIO LÍQUIDO E DEMONSTRAÇÃO DOS LUCROS OU
+PREJUÍZOS ACUMULADOS: Apresentação, aspectos conceituais, finalidades e normatização, forma de
+elaboração e seus elementos.
+H) DEMONSTRAÇÃO DOS FLUXOS DE CAIXA: Apresentação, aspectos conceituais, finalidades e
+normatização, forma de elaboração e seus elementos. Método direto e indireto, fluxos de caixa operacional,
+de investimento e de financiamento.
+I) DEMONSTRAÇÃO DO VALOR ADICIONADO: Apresentação, aspectos conceituais, finalidades e
+normatização, forma de elaboração e seus elementos.
+J) NOTAS EXPLICATIVAS: Aspectos conceituais, finalidades, normatização e conteúdo.
+K) CONSOLIDAÇÃO DAS DEMONSTRAÇÕES CONTÁBEIS: Normatização, mensuração e reconhecimento,
+conceitos, fundamentos e procedimentos de consolidação, tais como eliminação de resultados não
+realizados das transações intragrupo, eliminação de ativos e passivos decorrentes de transação intragrupo e
+identificação da participação dos não controladores no patrimônio, resultado e consolidação proporcional
+L) LEGISLAÇÃO: Normas Brasileiras de Contabilidade Técnicas Gerais (NBCs TG) e Lei n.º 6.404/76,
+aplicáveis aos itens A a K anteriores.
+2. CONTABILIDADE DE CUSTOS
+A) CONCEITOS, OBJETIVOS E FINALIDADES DA CONTABILIDADE DE CUSTOS: Conceito de gastos, custos,
+despesas, investimento e perdas. Princípios e conceitos contábeis aplicados à Contabilidade de Custos.
+B) CLASSIFICAÇÃO E NOMENCLATURA DOS CUSTOS: Custos fixos, custos variáveis, custos diretos e indiretos;
+custos controláveis e não controláveis; Custos primários e custos de transformação.
+C) CONTROLE, REGISTRO CONTÁBIL, APURAÇÃO E ALOCAÇÃO DE CUSTOS: Custos dos produtos em
+elaboração e serviços em andamento, custo dos produtos acabados, equivalentes de produção e custos
+conjuntos. Apropriação dos custos conjuntos aos coprodutos e subprodutos. Custos com mão de obra direta
+e indireta. Custos com materiais diretos e indiretos. Custos com matéria-prima, material secundário e
+material de embalagem. Métodos de controle de estoques de materiais. Custos indiretos de fabricação e
+seus critérios de rateio. Departamentalização. Centros de custos. Custo dos produtos vendidos e dos serviços
+prestados.
+D) MÉTODOS DE CUSTEAMENTO: Custeio por Absorção, Custeio Variável, Custeio Baseado em Atividades
+(ABC) e Custeio Pleno (RKW).
+E) SISTEMAS DE ACUMULAÇÃO DE CUSTOS: Acumulação de custos por ordem de produção ou encomendas.
+Acumulação de custos por processo. Custo por produto, custo por processo e custo por atividade.
+F) APURAÇÃO DE CUSTOS PARA CONTROLE: Custos reais (históricos), estimados e projetados. Custo Padrão.
+Componentes do custo padrão (padrões físicos e padrões financeiros).
+3. CONTABILIDADE APLICADA AO SETOR PÚBLICO
+A) ESTRUTURA CONCEITUAL PARA ELABORAÇÃO E DIVULGAÇÃO DE INFORMAÇÃO CONTÁBIL DE
+PROPÓSITO GERAL PELAS ENTIDADES DO SETOR PÚBLICO: Função, Autoridade e Alcance da Estrutura
+Conceitual. Objetivos e Usuários da Informação Contábil de Propósito Geral das Entidades do Setor Público.
+Características Qualitativas. Entidade que reporta a Informação Contábil. Elementos das Demonstrações
+Contábeis. Mensuração de Ativos e Passivos nas Demonstrações Contábeis. Apresentação de Informação no
+Relatório Contábil de Propósito Geral das Entidades do Setor Público.
+B) CAIXA E EQUIVALENTES DE CAIXA: conceito de caixa e equivalentes de caixa. moeda estrangeira.
+aplicações financeiras do custo amortizado. aplicações financeiras vj pelo resultado. aplicações financeiros
+do valor justo pelo pl. sitauções especiais: saldos negativos. depósitos restituíveis e valores vinculados.
+aspectos orçamentários.
+C) ESTOQUES: Objetivo, Alcance, Definições, Mensuração de Estoques, Reconhecimento no Resultado,
+Divulgação. Evidenciação e contabilização dos estoques.
+D) ATIVO BIOLÓGICO: aspectos iniciais sobre ativos biológicos e produtos agrícolas. definições da nbc tsp.
+atividade agrícola. reconhecimento e mensuração do ativo biológico e do produto agrícola.
+E) PROPRIEDADE PARA INVESTIMENTO. aspectos introdutórios. definições sobre ppi e popp. ativos de uso
+misto. reconhecimento da ppi. mensuração no reconhecimento.
+F) INVESTIMENTO EM COLIGADA E EMPREENDIMENTO CONTROLADO EM CONJUNTO. aspectos iniciais dos
+investimentos em coligada e ecc. influência significativa. método de equivalência patrimonial. aplicando o
+mep. mais valia e goodwill.
+G) ATIVO IMOBILIZADO E INTANGÍVEL. conceitos iniciais. valor líquido contábil. valor residual. vida útil.
+reconhecimento do imobilizado. mensuração do imobilizado. depreciações. métodos de depreciação e
+exaustão. taxas de depreciação. desreconhecimento e evidenciação.
+H) RECEITA DE TRANSAÇÃO SEM CONTRAPRESTAÇÃO: Objetivo, Alcance, Definições, Análise da Entrada de
+Recursos de Transações sem Contraprestação, Reconhecimento do Ativo, Reconhecimento da Receita
+Proveniente de Transação sem Contraprestação, Mensuração da Receita Proveniente de Transação sem
+Contraprestação, Obrigação Presente Reconhecida como Passivo, Tributo, Transferência, Divulgação.
+I) RECEITA DE TRANSAÇÃO COM CONTRAPRESTAÇÃO: Objetivo, Alcance, Definições, Mensuração da
+Receita, Identificação da Transação, Prestação de Serviços, Venda de Bens, Juros, Royalties e Dividendos ou
+Distribuições Similares, Divulgação.
+J) REDUÇÃO AO VALOR RECUPERÁVEL. Aspectos Iniciais. Definições. Mensuração da Perda por RVR. Ativo
+Não Gerador de Caixa. Ativo Gerador de Caixa. Valor Justo Líquido de Despesas de Venda e Valor em uso
+AGC. Evidenciação.
+K) PROVISÕES, PASSIVOS CONTINGENTE E ATIVOS CONTINGENTES: Objetivo, Alcance, Definições,
+Reconhecimento, Mensuração, Reembolso, Mudança na Provisão, Uso de Provisão, Aplicação das Regras de
+Reconhecimento e Mensuração, Divulgação.
+L) CONTRATOS DE CONCESSÃO DE SERVIÇOS PÚBLICOS - CONCEDENTE: Objetivo, Alcance, Definição,
+Reconhecimento e Mensuração de Ativo da Concessão de Serviço, Reconhecimento e Mensuração de
+Passivos, Outros Passivos, Compromissos, Passivos Contingentes e Ativos Contingentes, Outras Receitas,
+Apresentação e Divulgação.
+M) MENSURAÇÃO. Objetivo. Alcance. Definições. Mensuração. Divulgação. Data da vigência. Transição
+N) ARRENDAMENTOS. Objetivo. Alcance. Definições. Isenções de Reconhecimento. Prazo do arrendamento.
+Arrendatário. Arrendador. Transações de venda e retroarrendamento. Vigência.
+M) PLANO DE CONTAS APLICADO AO SETOR PÚBLICO.
+N) PROCEDIMENTOS CONTÁBEIS ORÇAMENTÁRIOS: Princípios Orçamentários, Receita Orçamentária,
+Despesa Orçamentária.
+O) PROCEDIMENTOS CONTÁBEIS PATRIMONIAIS: Composição do Patrimônio Público. Variações
+Patrimoniais. Mensuração de Ativos e Passivos. Ativo Imobilizado. Ativo Intangível. Reavaliação, Redução ao
+Valor Recuperável, Depreciação, Amortização e Exaustão. Reflexo Patrimonial das Despesas de Exercícios
+Anteriores (DEA).
+P) PROCEDIMENTOS CONTÁBEIS ESPECÍFICOS: Operações de Crédito. Dívida Ativa. Parcerias Público-
+Privadas. Regime Próprio de Previdência Social. Precatórios em Regime Especial. Consórcios Públicos.
+Fundeb.
+Q) DEMONSTRAÇÕES CONTÁBEIS: Apresentação, Aspectos Conceituais, Finalidades e Normatização, Forma
+de Elaboração e seus Elementos. Balanço Patrimonial, Balanço Orçamentário, Balanço Financeiro,
+Demonstração das Variações Patrimoniais, Demonstração das Mutações do Patrimônio Líquido;
+Demonstração dos Fluxos de Caixa, Notas Explicativas. Consolidação das Demonstrações Contábeis.
+R) LEGISLAÇÃO: Lei nº 4.320/1964, Lei Complementar nº 101/2000 [Lei de Responsabilidade Fiscal]; Normas
+Brasileiras de Contabilidade Aplicadas ao Setor Público (NBC TSP); Aplicações apresentadas no Manual de
+Contabilidade Aplicada ao Setor Público (MCASP) - 11ª edição, válidas a partir do exercício de 2025; Portaria
+Conjunta STN/SOF nº 23, de 11 de dezembro de 2023, Portaria Interministerial STN/SRPC nº 22, de 11 de
+dezembro de 2023 e Portaria STN/MF nº 1.568, de 11 de dezembro de 2023.
+4. CONTABILIDADE GERENCIAL
+A) CUSTOS PARA DECISÃO: Comportamento dos custos e volume de produção. Margem de contribuição.
+Margem de contribuição e fator de limitação. Margem de contribuição e custos fixos identificados. Ponto de
+equilíbrio contábil, econômico e financeiro. Margem de segurança. Alavancagem operacional. Formação do
+preço de venda. Decisões entre comprar ou fabricar. Custo de oportunidade. Custos perdidos. Custos
+imputados. Análise do Custo Diferencial. Análise dos Custos de Distribuição. Gestão de custos baseados em
+atividades e sua análise. Análise de custo/volume/lucro. Análise de custos e rentabilidade de produtos. Preço
+de transferência.
+B) CUSTOS PARA CONTROLE: Análise das variações de custos reais versus custo padrão.
+C) ANÁLISE DAS DEMONSTRAÇÕES CONTÁBEIS: Análise vertical e horizontal. Índices de liquidez. Índices de
+endividamento. Índices de rentabilidade. Prazos médios de renovação de estoques, recebimento de vendas
+e pagamento de compras. Ciclo operacional e financeiro. Análise do capital de giro.
+5. CONTROLADORIA
+A) CONTEXTUALIZAÇÃO: Função da controladoria e do compliance. Ambiente. Função do controller.
+B) PLANEJAMENTO E ORÇAMENTO EMPRESARIAL: Planejamento estratégico, tático, operacional.
+Mecanismos de Planejamento. Orçamentos de vendas, de produção, de despesas operacionais e de caixa.
+Controle orçamentário e mecanismos de orçamento.
+C) GESTÃO E A CONTROLADORIA: Processo decisório. Plano estratégico. Sistema de avaliação de
+desempenho e modelo de gestão.
+D) AVALIAÇÃO DE DESEMPENHO: Tipos de indicadores. Administração por centro de responsabilidades.
+Modelos de avaliação de desempenho.
+E) SISTEMAS DE INFORMAÇÕES GERENCIAIS: Conceito e função. Integração de dados. Sistemas de apoio a
+decisão. Qualidade e Governança da Informação. Sistema de suporte à controladoria.
+6. NOÇÕES DE DIREITO E LEGISLAÇÃO APLICADA
+A) NOÇÕES DE DIREITO PÚBLICO E PRIVADO: Conceito de direito, direito objetivo e subjetivo, direito positivo
+e natural, direito e moral, fontes do Direito, fases da lei, noções de interpretação jurídica aplicada. Divisões
+e Ramos do Direito. Fontes do Direito. Aplicação das Normas de Direito. Princípios do Direito. Noções de
+Direito Constitucional: Princípios Constitucionais, Direitos e Garantias Fundamentais, Aplicabilidade das
+normas constitucionais, Poder Constituinte, Organização do Estado e Divisão dos Poderes. Noções de Direito
+Administrativo: Princípios Constitucionais da Administração Pública, Estrutura da Administração Pública,
+Atos Administrativos, Contratos Administrativos. Noções de Direito Civil: Hierarquia, interpretação,
+integração, vigência e eficácia das normas de direito civil; Das pessoas jurídicas; Dos atos e dos fatos jurídicos;
+Da personalidade jurídica; Da capacidade jurídica; Prescrição e Decadência; Direito das obrigações; Direito
+dos contratos; e, Aplicação prática do Direito Público e Privado associados às diversas etapas do processo
+contábil.
+B) DIREITO TRABALHISTA E LEGISLAÇÃO SOCIAL: Consolidação das Leis do Trabalho. Empregador, definição,
+empresa individual e coletiva, características, direitos e deveres. Empregado, definição, características,
+direitos e deveres. Normas Gerais de Tutela do Trabalho, identificação profissional, duração do trabalho,
+salário-mínimo, férias, segurança e medicina no trabalho. Normas Especiais de Tutela do Trabalho, proteção
+ao trabalho da mulher, proteção ao trabalho do menor, demais normas especiais de tutela. Contrato
+Individual de Trabalho, remuneração, alteração, suspensão e interrupção, rescisão e aviso prévio,
+estabilidades. Associação Sindical e Convenção Coletiva do Trabalho, instituições sindicais, enquadramento
+sindical, contribuição sindical, dissídios individuais e coletivos. Justiça do Trabalho, órgãos da Justiça do
+Trabalho, composição e funcionamento. Previdência e Assistência social, conceitos básicos de previdência e
+assistência social, previdência pública e previdência privada. Legislação complementar. Aplicação prática do
+Direito Trabalhista e da Legislação Social associados às diversas etapas do processo contábil.
+C) DIREITO EMPRESARIAL E LEGISLAÇÃO SOCIETÁRIA: Origem do Direito Comercial, origem do Direito
+Empresarial, conceito de comércio e comerciante, conceito de empresa e empresário, personalidade física e
+jurídica, capacidade civil e legislação societária. O empresário, requisitos, direitos, deveres e prerrogativas,
+crimes e penalidades e empresário estrangeiro. A sociedade não personificada (em comum, em conta de
+participação), a sociedade personificada (sociedade empresária e simples, em nome coletivo, em comandita
+simples, limitada, sociedade anônima, comandita por ações, cooperativas e coligadas), a administração
+societária e o contrato social. Dissolução parcial ou total da sociedade, retirada de sócios, exclusão de sócios,
+falecimento de sócios, insolvência, recuperação empresarial, falência e liquidação. Reorganização societária.
+Lei nº 6.404/1976 e suas alterações. Aplicação prática do Direito Comercial e Legislação Societária associados
+às diversas etapas do processo contábil.
+D) DIREITO E LEGISLAÇÃO TRIBUTÁRIA: ASPECTOS GERAIS DO DIREITO TRIBUTÁRIO: Lei n.º 5.172/1966 que
+instituiu o Código Tributário Nacional. Definição de Tributo. Espécies Tributárias na definição do CTN e na
+jurisprudência do STF. Competência Tributária. Normas gerais de direito tributário (lei e legislação, lei
+ordinária, lei complementar, medidas provisórias, decretos, regulamentos, normas complementares);
+Vigência, aplicação, interpretação da legislação tributária; Sistema tributário Nacional (princípios gerais, das
+limitações do poder de tributar, dos impostos da União, dos impostos dos estados e do Distrito Federal e dos
+impostos dos municípios). Obrigação tributária: Conceito de obrigação tributária e tributo, obrigação
+principal e acessória, fato gerador, sujeito ativo e passivo da obrigação tributária, crédito tributário, tipos de
+lançamentos, suspensão, extinção e exclusão do crédito tributário, obrigações tributárias não pecuniárias,
+domicílio tributário, solidariedade tributária e responsabilidade tributária. Crédito tributário: Conceito e
+Constituição do Crédito Tributário. Lançamento Tributário: conceito, funções, efeitos, espécies, revisão,
+alteração. Imunidades e outras limitações ao poder de tributar. Suspensão da Exigibilidade do Crédito
+Tributário. Extinção e Exclusão do Crédito Tributário. Garantias e Privilégios do Crédito Tributário. Processo
+Tributário: Dívida Ativa, Processo Administrativo e Judicial e crimes em matéria tributária. Legislação
+tributária aplicada. Aplicação prática do Direito Tributário e Legislação tributária associada às diversas etapas
+do processo contábil. Lei Complementar nº 123/06 - Estatuto Nacional da Microempresa e da Empresa de
+Pequeno Porte com as alterações da Lei Complementar nº 128 de 19 de dezembro de 2008. Reforma
+Tributária. Lei Complementar nº 214 institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social
+sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS) e ainda cria o Comitê Gestor do IBS e altera a legislação
+tributária.
+7. MATEMÁTICA FINANCEIRA E ESTATÍSTICA
+A) FUNDAMENTOS DE MATEMÁTICA FINANCEIRA: Juros Simples, Juros Compostos. Desconto simples e
+composto. Desconto comercial (por fora) e Desconto racional (por dentro). Taxas Nominal, Efetiva,
+Proporcional e Equivalente. Séries de pagamentos uniformes. Sistemas de amortização (PRICE, SAC E SACRE).
+b) Correção Monetária e Inflação: Índices de atualização e inflação. Variação dos índices. Taxa de juros
+nominal e real. Depósito com correção monetária. Números índices. Deflação.
+C) MATEMÁTICA FINANCEIRA APLICADA À CONTABILIDADE E ANÁLISE DE INVESTIMENTOS: Fluxo de Caixa
+Descontado. Valor presente. Custo anual. Taxa Interna de Retorno (TIR). Payback. Taxa Mínima de
+Atratividade (TMA). Custo amortizado. Aplicação prática da Matemática Financeira ao processo de
+reconhecimento, mensuração e evidenciação contábil.
+D) FUNDAMENTOS DE ESTATÍSTICA: Séries estatísticas, tabelas e gráficos. Estatística descritiva.
+Probabilidade. Variáveis aleatórias. Distribuição binomial. Distribuição normal. Distribuições amostrais.
+Estimação. Testes de hipótese. Correlação. Regressão linear. Amostras e populações. Amostra aleatória.
+Valor esperado.
+E) ESTATÍSTICA APLICADA À CONTABILIDADE: Aplicação prática da estatística às atividades do profissional
+de contabilidade, tais como: amostragem em auditoria, realização de estimativas em orçamentos, projeções,
+reconhecimento e mensuração de ativos, passivos, receitas e despesas.
+8. TEORIA DA CONTABILIDADE
+A) ESTRUTURA CONCEITUAL. Objetivo das Demonstrações Contábeis. Características Qualitativas de
+Informações Financeiras Úteis. Demonstrações contábeis e a entidade que reporta demonstrações
+contábeis. Elementos das Demonstrações Contábeis. Reconhecimento e Desreconhecimento. Mensuração.
+Apresentação e Divulgação. Conceitos de Capital e Manutenção de Capital.
+B) ELEMENTOS CONTÁBEIS PATRIMONIAIS: ativo, passivo e sua mensuração. Desempenho e propriedade
+em contabilidade: Receita, Despesas, Ganhos e Perdas, Patrimônio Líquido e Direitos de Propriedade.
+9. LEGISLAÇÃO E ÉTICA PROFISSIONAL
+A) ÉTICA GERAL E PROFISSIONAL: O conceito e sua inserção na Filosofia. Os campos de Ética e da Moral. As
+fontes das regras éticas. A Sociedade e a Ética. O papel da Contabilidade na sociedade. A Ética Profissional.
+B) LEGISLAÇÃO SOBRE A ÉTICA PROFISSIONAL: Código de Ética Profissional do Contador e normas correlatas
+(NBC PG 01, NBC PG 12, NBC PG 100, NBC PG 200, NBC PG 300, NBC PA 400, e NBC PO 900) consideradas em
+suas versões atualizadas por alterações ocorridas ou inclusões até noventa dias antes da realização do Exame.
+C) LEGISLAÇÃO PROFISSIONAL E DE ORGANIZAÇÃO DOS CONSELHOS DE CONTABILIDADE: Decreto Lei nº
+1.040/1969 e alterações posteriores. Resolução CFC nº 1.612/2021 - Regulamento Geral dos Conselhos de
+Contabilidade e alterações posteriores. Decreto-Lei nº 9.295/1946 e alterações. Possíveis alterações
+ocorridas ou inclusões até noventa dias antes da realização do Exame.
+10. PRINCÍPIOS DE CONTABILIDADE E NORMAS BRASILEIRAS DE CONTABILIDADE
+A) ESTRUTURA DAS NORMAS BRASILEIRAS DE CONTABILIDADE: Resolução CFC nº 1.328/2011 considerada
+em sua versão atualizada por alterações ocorridas ou inclusões até noventa dias antes da realização do
+Exame.
+em: https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/ e
+https://www2.cfc.org.br/sisweb/sre/Default.aspx.
+C) NORMAS BRASILEIRAS DE CONTABILIDADE RELACIONADA A SUSTENTABILIDADE E CLIMA: NBC TDS 01 -
+Requisitos Gerais para Divulgação de Informações Financeiras Relacionadas à Sustentabilidade; NBC TDS 02
+- Divulgações Relacionadas ao Clima.
+11. AUDITORIA CONTÁBIL
+A) CONCEITO E APLICAÇÃO DA AUDITORIA CONTÁBIL: Conceitos. Objetivo e finalidade da auditoria. Tipos
+de Auditoria. Auditoria interna. Auditoria externa. Controle interno. Documentação de Auditoria
+B) ESTRUTURA CONCEITUAL PARA TRABALHOS DE ASSEGURAÇÃO: Princípios éticos e normas de controle
+de qualidade. Descrição dos trabalhos de asseguração. Trabalho de atestação e trabalho direto. Trabalho de
+asseguração razoável e trabalho de asseguração limitada. Abrangência da estrutura conceitual. Relatório de
+trabalho que não é de asseguração.
+C) OBJETIVOS GERAIS DO AUDITOR INDEPENDENTE E A CONDUÇÃO DA AUDITORIA EM CONFORMIDADE
+COM NORMAS DE AUDITORIA: Auditoria de demonstrações contábeis. Objetivos gerais do auditor.
+Requisitos éticos relacionados à auditoria de demonstrações contábeis, Ceticismo profissional. Julgamento
+profissional, Evidência de auditoria apropriada e suficiente e risco de auditoria, Condução da auditoria.
+D) RESPONSABILIDADE DO AUDITOR EM RELAÇÃO À FRAUDE, NO CONTEXTO DA AUDITORIA DE
+DEMONSTRAÇÕES CONTÁBEIS: Características da fraude e Responsabilidade pela prevenção e detecção de
+fraude. Ceticismo profissional, discussão entre a equipe de trabalho, Procedimentos de avaliação de riscos e
+atividades relacionadas, Identificação e avaliação dos riscos de distorção relevante decorrente de fraude,
+Respostas aos riscos avaliados de distorção relevante decorrente de fraude, Avaliação da evidência de
+auditoria, Auditor sem condições de continuar o trabalho, Representações da administração, Comunicações
+à administração e aos responsáveis pela governança, Comunicações às autoridades reguladoras e de controle
+e Documentação.
+E) PLANEJAMENTO DA AUDITORIA DE DEMONSTRAÇÕES CONTÁBEIS: Papel e oportunidade do
+planejamento. Envolvimento de membros-chave da equipe de trabalho. Atividades preliminares do trabalho
+de auditoria. Atividades de planejamento. Documentação. Considerações adicionais em auditoria inicial.
+F) IDENTIFICAÇÃO E AVALIAÇÃO DOS RISCOS DE DISTORÇÃO RELEVANTE POR MEIO DO ENTENDIMENTO
+DA ENTIDADE E DO SEU AMBIENTE: Procedimentos de avaliação de risco e atividades relacionadas.
+Entendimento necessário da entidade e de seu ambiente, inclusive do controle interno. Identificação e
+avaliação dos riscos de distorção relevante. Documentação.
+G) PROCEDIMENTOS ANALÍTICOS: Definição dos procedimentos analíticos. Procedimentos analíticos
+substantivos. Procedimentos analíticos que auxiliam na formação da conclusão geral. Exame dos resultados
+de procedimentos analíticos.
+H) FORMAÇÃO DA OPINIÃO E EMISSÃO DO RELATÓRIO DO AUDITOR INDEPENDENTE SOBRE AS
+DEMONSTRAÇÕES CONTÁBEIS: Formação da opinião sobre as demonstrações contábeis. Forma da opinião.
+Relatório do auditor independente. Informações suplementares apresentadas com as demonstrações
+contábeis. Aspectos qualitativos das políticas contábeis da entidade. Políticas contábeis divulgadas
+apropriadamente nas demonstrações contábeis. Informações apresentadas nas demonstrações contábeis
+são relevantes, confiáveis, comparáveis e compreensíveis. Divulgação do efeito de transações e eventos
+relevantes sobre as informações apresentadas nas demonstrações contábeis. Avaliação se as demonstrações
+contábeis alcançam apresentação adequada. Descrição da estrutura de relatório financeiro aplicável.
+I) MODIFICAÇÕES NA OPINIÃO DO AUDITOR INDEPENDENTE: Tipos de opinião modificada. Circunstâncias
+em que é necessário modificar a opinião do auditor. Determinação do tipo de modificação na opinião do
+auditor. Forma e conteúdo do relatório do auditor com opinião modificada. Comunicação com os
+responsáveis pela governança.
+J) PARÁGRAFOS DE ÊNFASE E PARÁGRAFOS DE OUTROS ASSUNTOS NO RELATÓRIO DO AUDITOR
+INDEPENDENTE:
+Parágrafos de ênfase no relatório do auditor independente. Comunicação com os responsáveis pela
+governança. Relação entre parágrafos de ênfase e principais assuntos de auditoria no relatório do auditor
+independente. Circunstâncias em que um parágrafo de ênfase pode ser necessário. Inclusão de parágrafo de
+ênfase no relatório do auditor independente. Parágrafos de outros assuntos no relatório do auditor
+independente. Localização dos parágrafos de ênfase e parágrafos de outros assuntos no relatório do auditor
+independente. Comunicação com os responsáveis pela governança.
+K) OUTROS ASPECTOS RELEVANTES: Concordância com os Termos do Trabalho de Auditoria. Controle de
+qualidade da auditoria de demonstrações contábeis. Documentação de Auditoria. Consideração de Leis e
+Regulamentos na Auditoria de Demonstrações Contábeis. Comunicação com os Responsáveis pela
+Governança. Comunicação de Deficiências de Controle Interno. Materialidade no Planejamento e na
+Execução da Auditoria. Resposta do Auditor aos Riscos Avaliados. Considerações de Auditoria para a Entidade
+que Utiliza Organização Prestadora de Serviços. Avaliação das distorções identificadas durante a auditoria.
+Confirmações Externas. Trabalhos Iniciais - Saldos Iniciais. Procedimentos de auditoria, conclusões e
+relatórios de auditoria. Amostragem em Auditoria. Auditoria de Estimativas Contábeis, Inclusive do Valor
+Justo, e Divulgações Relacionadas. Partes Relacionadas. Eventos Subsequentes. Continuidade Operacional.
+Representações Formais. Auditorias de Demonstrações Contábeis de Grupos, incluindo o Trabalho dos
+Auditores dos Componentes. Utilização do Trabalho de Auditoria Interna. Utilização do Trabalho de
+Especialistas. Comunicação dos Principais Assuntos de Auditoria no Relatório do Auditor Independente.
+Informações Comparativas - Valores Correspondentes e Demonstrações Contábeis Comparativas.
+Responsabilidade do Auditor em Relação a Outras Informações. Auditorias de Demonstrações Contábeis
+Elaboradas de Acordo com Estruturas Conceituais de Contabilidade para Propósitos Especiais. Auditoria de
+Quadros Isolados das Demonstrações Contábeis e de Elementos, Contas ou Itens Específicos das
+Demonstrações Contábeis. NBC TI 01 - Auditoria Interna. NBC TAS 5000 - Asseguração de Relatórios de
+Sustentabilidade, Relato Integrado e correlatos, convergidas aos padrões internacionais.
+12. PERÍCIA CONTÁBIL
+A) PERÍCIA CONTÁBIL: Conceito, natureza e objetivos. Tipos de perícia (Arbitral, Judicial, Extrajudicial e
+ Oficial). Abrangência da perícia contábil.
+B) PROCEDIMENTOS PERICIAIS: Planejamento da perícia. Execução. Tipos de Quesitos e Respostas.
+ Indicação de assistente técnico. Laudo Pericial Contábil. Parecer Pericial Contábil. Pedidos de
+ Esclarecimentos. Termo de Diligência. Honorários periciais.
+C) PERITO CONTÁBIL. Perito contábil Judicial: Atuação como perito judicial (assistente técnico e perito do
+ juízo); nomeação, substituição, impedimentos e suspeição. Responsabilidade profissional, técnica e
+ ética.
+D) PERÍCIA CONTÁBIL NAS ESPÉCIES DE LIDES: Perícia em contratos bancários e financeiros: revisão de
+ cláusulas, capitalização de juros, Sistema de Amortização, descaracterização da mora. Perícia em
+ dissolução parcial de sociedades: apuração de haveres, balanço especial e balanço de determinação.
+ Perícia em desapropriação: juros compensatórios, juros moratórios e base de cálculo da indenização.
+ Perícia em inventário, tutela e curatela: prestação de contas, critérios de glosa e ônus da prova. Perícia
+ em ações trabalhistas: liquidação de sentença, apuração de verbas rescisórias e reflexos. Perícia em
+ relações condominiais: conciliação bancária, fundo de reserva e inadimplência. Perícia tributária e
+ societária: apuração de tributos, lucros cessantes e danos emergentes.
+E) NORMAS APLICÁVEIS: Legislação profissional vigente sobre a matéria. Disposições do Código de
+ Processo Civil aplicadas à Perícia Contábil. NBC PP 01 - Perito Contábil. ITP 01 - Apuração de Haveres.
+ NBC PP 01 - Perito Contábil. NBC TP 01 - Perícia Contábil. Disposições do Conselho Federal de
+ Contabilidade relativas aos Princípios de Contabilidade e às resoluções e Normas Brasileiras de
+ Contabilidade Técnicas e Profissionais de Perícia editadas até noventa dias antes da realização do Exame.
+13. LÍNGUA PORTUGUESA APLICADA
+A) CONHECIMENTOS DE LÍNGUA PORTUGUESA ABORDADOS NO ENSINO FUNDAMENTAL. Lei nº 9.394 de
+20/12/1996.
+B) CONHECIMENTOS DE LÍNGUA PORTUGUESA ABORDADOS NO ENSINO MÉDIO. Lei nº9.394 de
+20/12/1996.
+C) DECRETO LEI Nº 6.583, DE 29 DE SETEMBRO DE 2008. Acordo Ortográfico da Língua Portuguesa.
