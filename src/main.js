@@ -132,7 +132,14 @@ function telaSumario() {
     folha.append(h('section', { class: 'disciplina-grupo' }, h('h3', {}, g.d), h('ul', { class: 'indice' }, g.ls.map((l) => {
       const r = est.licoes[l.id];
       const st = l.stub ? h('span', { class: 'st prep' }, 'em preparação') : r?.concluida ? h('span', { class: 'st feito' }, '✓ estudada') : h('span', { class: `selo ${l.incidencia}` }, `cai ${l.incidencia === 'alta' ? 'muito' : l.incidencia === 'media' ? 'médio' : 'pouco'}`);
-      return h('li', {}, h('a', { href: `#/licao/${l.id}/0` }, h('span', { class: 'n' }, String(l.numero).padStart(2, '0')), h('span', { class: 't' }, l.titulo, h('small', {}, `${l.subtitulo || ''}${l.tempo ? ` · ~${l.tempo} min` : ''}`)), st));
+      const ps = paginasDa(l);
+      const ir = (tipo) => ps.findIndex((p) => p.tipo === tipo);
+      const atalhos = l.stub ? null : h('div', { class: 'atalhos' },
+        h('a', { href: `#/licao/${l.id}/1` }, '📖 Teoria'),
+        ir('demo') > 0 ? h('a', { href: `#/licao/${l.id}/${ir('demo')}`, class: 'exp' }, '🧪 Experimento') : null,
+        ir('questoes') > 0 ? h('a', { href: `#/licao/${l.id}/${ir('questoes')}` }, `✍️ ${l.questoes.length} questões`) : null,
+        h('a', { href: `#/licao/${l.id}/${ps.length - 1}` }, '📌 Resumo'));
+      return h('li', {}, h('a', { href: `#/licao/${l.id}/0` }, h('span', { class: 'n' }, String(l.numero).padStart(2, '0')), h('span', { class: 't' }, l.titulo, h('small', {}, `${l.subtitulo || ''}${l.tempo ? ` · ~${l.tempo} min` : ''}`)), st), atalhos);
     }))));
   });
   folha.append(h('p', { class: 'dica-teclado' }, 'Atalhos: ← → viram a página · Esc volta ao sumário · L liga/desliga o modo leitura'));
@@ -196,6 +203,13 @@ function renderPagina(L, p, idx, total) {
       if (r.previsao != null) card.querySelectorAll('.btn-caneta')[r.previsao]?.click();
     }
     if (L.stub) folha.append(h('div', { class: 'caixa' }, 'Esta lição ainda está sendo escrita. Volte em breve!'));
+    else {
+      const ps = paginasDa(L);
+      const icone = { teoria: '📖', demo: '🧪', macetes: '💡', questoes: '✍️', resumo: '📌' };
+      folha.append(h('h3', {}, 'Nesta lição'), h('ol', { class: 'roteiro' }, ps.map((pp, i) => i === 0 ? null : h('li', { class: pp.tipo === 'demo' ? 'exp' : '' },
+        h('button', { type: 'button', class: 'link-pagina', onclick: () => mostrarLicao(L, i, 1) }, `${icone[pp.tipo] || ''} ${pp.tipo === 'demo' ? `Experimento interativo: ${pp.titulo.replace(/^Experimento:\s*/i, '')}` : pp.titulo}`)))),
+        h('p', { class: 'dica-teclado' }, 'Toque em um item para ir direto, ou use "Próxima →" para seguir na ordem.'));
+    }
   } else if (p.tipo === 'teoria') {
     const pg = L.paginas[p.i];
     folha.append(h('h2', {}, pg.titulo), h('div', { class: 'teoria', html: pg.html }));
@@ -299,7 +313,10 @@ function mostrarLicao(L, idx, dir) {
   s.ps.forEach((p, i) => s.pontos.append(h('button', { type: 'button', role: 'tab', title: p.titulo, 'aria-label': `Página ${i + 1}: ${p.titulo}`, 'aria-current': i === idx ? 'true' : 'false', class: r.vistas.includes(i) ? 'vista' : '', onclick: () => i !== s.pag && mostrarLicao(L, i, i > s.pag ? 1 : -1) })));
   s.ant.disabled = idx === 0;
   const prox = licoes[licoes.indexOf(L) + 1];
-  s.prox.textContent = idx < s.ps.length - 1 ? 'Próxima →' : prox ? 'Próxima lição →' : 'Sumário →';
+  const seg = s.ps[idx + 1];
+  const rotulo = { demo: 'Próxima: 🧪 Experimento →', macetes: 'Próxima: 💡 Macetes →', questoes: 'Próxima: ✍️ Questões →', resumo: 'Próxima: 📌 Resumo →' };
+  s.prox.textContent = seg ? (rotulo[seg.tipo] || (idx === 0 ? 'Começar a teoria →' : 'Próxima página →')) : prox ? 'Próxima lição →' : 'Sumário →';
+  [...s.pontos.children].forEach((b, i) => { if (s.ps[i].tipo === 'demo') b.classList.add('exp'); });
   window.scrollTo({ top: 0, behavior: kit.reduzMovimento() ? 'auto' : 'smooth' });
 }
 

@@ -316,3 +316,17 @@ body.leitura *, body.leitura *::before { transition: none !important; animation:
 .demo-dica { margin: 8px 0; padding: 6px 12px 6px 34px; position: relative; font-size: 15px; color: #4a3b00; background: #fff8cc; border-radius: 8px; }
 .demo-dica::before { content: '💡'; position: absolute; left: 10px; top: 5px; }
 .cvl-grafico, .cvl-3d { margin: 10px 0; }
+
+/* Atalhos no sumário e roteiro da lição */
+.indice .atalhos { display: flex; flex-wrap: wrap; gap: 6px; margin: -2px 0 10px 56px; }
+.indice .atalhos a { display: inline-block; font-size: 14px; padding: 2px 10px; border: 1.5px solid rgba(31,58,104,.35); border-radius: 999px; background: rgba(255,255,255,.6); color: var(--tinta); text-decoration: none; }
+.indice .atalhos a:hover { background: var(--marca); }
+.indice .atalhos a.exp { border-color: var(--verde); color: var(--verde); font-weight: 700; background: #e7f5ec; }
+.roteiro { padding-left: 22px; margin: 6px 0 4px; }
+.roteiro li { margin: 2px 0; }
+.roteiro li.exp .link-pagina { font-weight: 700; color: var(--verde); background: #e7f5ec; border-radius: 6px; padding: 2px 8px; }
+.link-pagina { display: inline; vertical-align: top; background: none; border: 0; padding: 2px 0; color: var(--tinta); text-align: left; cursor: pointer; text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 3px; font: inherit; }
+.link-pagina:hover { background: var(--marca); }
+.pontos button.exp { border-color: var(--verde); box-shadow: 0 0 0 3px rgba(46,125,79,.25); }
+.pontos button.exp[aria-current='true'] { background: var(--verde); }
+@media (max-width: 640px) { .indice .atalhos { margin-left: 0; } }
